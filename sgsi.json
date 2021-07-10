@@ -4,7 +4,7 @@
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
   "rom_type": "miui",
-  "light_fix": true,
+  "light_fix": false
   "bug_fix": false,
   "version": "11",
   "upload_transfer": true,
